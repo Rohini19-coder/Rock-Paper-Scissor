@@ -12,21 +12,23 @@ A fun and interactive **Rock-Paper-Scissors** game built with HTML, CSS, and Jav
 
 ---
 
-## 📜 Description
-- **Choose Rock, Paper, or Scissors** to play against the computer.  
-- Keeps track of **Wins, Losses, and Ties**.  
-- Includes an **Auto Play** mode.  
-- **Score does not reset even after refreshing the page** (stored using browser localStorage).  
-- Simple and minimal design.
+## 📸 Preview
+![Rock Paper Scissors Gameplay](images/rps-gameplay.png)
+
+---
+
+## 📜 Features
+- Choose Rock, Paper, or Scissors to play against the computer  
+- Keeps track of Wins, Losses, and Ties  
+- Auto Play mode  
+- Score persists after refresh using `localStorage`  
+- Minimal, responsive design
 
 ---
 
 ## 🛠 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
-
-## 📜 License
-This project is open source and free to use.
